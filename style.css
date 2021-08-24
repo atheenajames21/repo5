@@ -1,0 +1,29 @@
+<style type = "text/css">
+h1   {color: rgb(5, 5, 97);}
+h2   {color: rgb(4, 4, 63);}
+p    {color: rgb(114, 11, 11);}
+</style>
+
+<style type="text/css"> 
+        .container {
+            width:600px;
+            height:190px;
+            padding-top:20px;
+            padding-left:15px;
+            padding-right:15px;
+        }
+        
+* {
+    box-sizing: border-box;
+  }
+.box {
+    float: left;
+    width: 50%;
+    height:170px;
+    padding: 50px;
+    border:solid black;
+  }
+  
+  
+</style>
+
